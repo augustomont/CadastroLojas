@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace CadastroLojas.Models
 {
-    [Table("Catalogo de Lojas")]
+    [Table("Lojas")]
     public class LojasModel
     {
         [Column("Id")]
